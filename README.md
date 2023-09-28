@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarveshkulkarni486
-- 👀 I’m interested in Web Development, specially in Back-end Development
+- 👀 I’m interested in Web Development and Android develoment.
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Linkedin
 - 📫 How to reach me Visit my linked-in profile available at github bio.
