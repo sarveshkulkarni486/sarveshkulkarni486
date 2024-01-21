@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Kulkarni</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="https://github.com/sarveshkulkarni486/sarveshkulkarni486/blob/main/coding.gif"/>
+<div align="center" style="border-radius: 50%">
+  <img src="https://github.com/sarveshkulkarni486/sarveshkulkarni486/blob/main/coding.gif" style="border-radius: 50%"/>
+</div>
 
 - 🔭 I’m currently working on [Task Manager using MERN](https://github.com/sarveshkulkarni486/TaskManager)
 
