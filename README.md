@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Kulkarni</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="https://github.com/sarveshkulkarni486/sarveshkulkarni486/blob/main/GithubProfile.jpg" alt="Github Profile">
+<img src="https://github.com/sarveshkulkarni486/sarveshkulkarni486/blob/main/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshkulkarni486&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshkulkarni486" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Task Manager using MERN](https://github.com/sarveshkulkarni486/TaskManager)
 
-- 🌱 I’m currently learning **MongoDB, NodeJS, Express JS, ReactJs**
+- 🌱 I’m currentl<imgy learning **MongoDB, NodeJS, Express JS, ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://sarveshkulkarni.netlify.app/](https://sarveshkulkarni.netlify.app/)
 
