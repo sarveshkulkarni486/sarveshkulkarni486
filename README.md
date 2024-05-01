@@ -4,7 +4,7 @@
   <img src="https://github.com/sarveshkulkarni486/sarveshkulkarni486/blob/main/coding%20(2).gif" style="border-radius: 50%"/>
 </div>
 
-- 🔭 I’m currently working on [Seafood supplychain management project using mern stack and blockchain: web3js]
+- 🔭 I’m currently working and exploring on [Authentication Application using Spring Boot, NextJS, Bcryptjs, tokenizer, mognodb]
 
 - 🌱 I’m currently learning **MongoDB, NodeJS, Express JS, ReactJs and also framework in Java**
 
