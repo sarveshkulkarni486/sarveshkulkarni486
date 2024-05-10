@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sarveshkulkarni.netlify.app/](https://sarveshkulkarni.netlify.app/)
 
-- 💬 Ask me about **Java, Javascript, HTML & CSS,SQL, PHP but having particular interest in Java Language**
+- 💬 Ask me about **Java, Javascript, HTML & CSS,SQL, PHP.**
 
 - 📫 How to reach me **kulkarnisarvesh96@gmail.com**
 
