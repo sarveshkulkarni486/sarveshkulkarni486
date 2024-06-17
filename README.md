@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Kulkarni</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">I thrive on crafting innovative solutions that seamlessly integrate front-end aesthetics with robust back-end functionalities.</h3>
 <div align="center" style="border-radius: 50%">
   <img src="https://github.com/sarveshkulkarni486/sarveshkulkarni486/blob/main/coding%20(2).gif" style="border-radius: 50%"/>
 </div>
