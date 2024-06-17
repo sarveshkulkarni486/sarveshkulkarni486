@@ -4,7 +4,7 @@
   <img src="https://github.com/sarveshkulkarni486/sarveshkulkarni486/blob/main/coding%20(2).gif" style="border-radius: 50%"/>
 </div>
 
-- 🔭 I’m currently working and exploring on [Authentication Application using Spring Boot, NextJS, Bcryptjs, tokenizer, mognodb]
+- 🔭 I’m currently working and exploring on [Document Management System using Spring Boot, React, Hibernate ORM, MongoDB]
 
 - 🌱 I’m currently learning **MongoDB, NodeJS, Express JS, ReactJs and also framework in Java**
 
